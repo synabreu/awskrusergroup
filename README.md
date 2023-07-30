@@ -8,8 +8,8 @@
 
 제 1 부에서는 다음과 같은 내용으로 발표했습니다.
 
-• MLOps (AI/ML lifecycle) 및 AI/ML Stack • AWS SageMaker 2022.12 주요 기능
-• SageMaker Domain 및 User Profile • SageMaker Projects – Pipeline
+<p> • MLOps (AI/ML lifecycle) 및 AI/ML Stack • AWS SageMaker 2022.12 주요 기능 </p>
+<p> • SageMaker Domain 및 User Profile • SageMaker Projects – Pipeline </p>
 • SageMaker Notebooks
 • SageMaker Studio
 • SageMaker Processing (전처리)
