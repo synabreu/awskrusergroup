@@ -1,9 +1,9 @@
-# awskrusergroup
+# AWS Sagemaker를 이용한 MLOps와 LLMOps
 
 안녕하세요? 서진호입니다. 
 
 이번 주 AWSKR USER GROUP 의 데이터 모임 에서 발표한 자료를 공유해 드립니다.
-주제는 " AWS Sagemaker를 이용한 MLOps 와 LLMOps" 로 2시간 정도 발표한 자료입니다.
+주제는 "AWS Sagemaker를 이용한 MLOps 와 LLMOps" 로 2시간 정도 발표한 자료입니다.
 그날 많은 분들이 질문을 주셔서 그것을 반영해서 좀더 추가적인 자료를 넣어서 작성했습니다.
 
 제 1 부에서는 다음과 같은 내용으로 발표했습니다.
