@@ -10,16 +10,17 @@
 
 <p> • MLOps (AI/ML lifecycle) 및 AI/ML Stack • AWS SageMaker 2022.12 주요 기능 </p>
 <p> • SageMaker Domain 및 User Profile • SageMaker Projects – Pipeline </p>
-• SageMaker Notebooks
-• SageMaker Studio
-• SageMaker Processing (전처리)
-• SageMaker Autopilot (AutoML)
-• SageMaker Training Jobs
-• SageMaker Experiments 및 Trials
-• SageMaker Serving and Deployment • SageMaker Endpoints
-• SageMaker Debugger
-• SageMaker Monitor
-• 실습: SageMaker Notebooks 에서 ML 모델을 ECR 배포 및 엔드포인트
+<p> • SageMaker Notebooks </p>
+<p> • SageMaker Studio </p>
+<p> • SageMaker Processing (전처리) </p>
+<p> • SageMaker Autopilot (AutoML) </p>
+<p> • SageMaker Training Jobs </p>
+<p> • SageMaker Experiments 및 Trials </p>
+<p> • SageMaker Serving and Deployment 
+<p> • SageMaker Endpoints </p>
+<p> • SageMaker Debugger </p>
+<p> • SageMaker Monitor </p>
+<p> • 실습: SageMaker Notebooks 에서 ML 모델을 ECR 배포 및 엔드포인트 </p>
 
 
 제 2 부에서는 다음과 같은 내용으로 발표했습니다.
