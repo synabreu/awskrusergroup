@@ -50,7 +50,9 @@
 
 <P> * AWS 로그 </P>
 
-1. [Introducing the vector engine for Amazon OpenSearch Serverless, now in preview](https://aws.amazon.com/ko/blogs/big-data/introducing-the-vector-engine-for-amazon-opensearch-serverless-now-in-preview/): OpenSearch 를 이용한 벡터 데이터베이스 임베딩과 증강된 ML 검색
+1. [Amazon Bedrock용 에이전트 미리보기 출시](https://aws.amazon.com/ko/blogs/korea/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/): 채팅 서비스보다 Autogpt 처럼 에이전트로 멀티 엄무 태스크(Advanced Reasoning and ReAct)를 LLM에게 전달하고 연속 업무를 하기 위한 AWS 서비스, 현재는 프리뷰 서비스라 사용하려면 별도로 신청해야 함.    
+
+9. [Introducing the vector engine for Amazon OpenSearch Serverless, now in preview](https://aws.amazon.com/ko/blogs/big-data/introducing-the-vector-engine-for-amazon-opensearch-serverless-now-in-preview/): OpenSearch 를 이용한 벡터 데이터베이스 임베딩과 증강된 ML 검색
 
 
 <p> * 읽어 보시면 유용할 만한 LLM 관련 논문, 기사, 블로그 </p>
