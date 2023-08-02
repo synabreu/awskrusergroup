@@ -48,5 +48,9 @@
 
 ## Further Readings ##
 
+<p> * 읽어 보시면 유용할 만한 LLM 관련 논문, 기사, 블로그 </p>
+
+
 1. [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b): GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음. 
-2. 
+2. [ReLoRa: Pre-train a Large Language Model on Your GPU](https://towardsdatascience.com/relora-pre-train-a-large-language-model-on-your-gpu-d104756f9ddf): LoRA에서 파라미터를 그대로 유지하고 Low Rank를 추가해서 비용을 줄일 수 있는 최신 방법 제안
+3.  
