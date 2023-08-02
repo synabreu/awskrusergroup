@@ -48,5 +48,5 @@
 
 ## Further Readings ##
 
-1. [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b, "GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음"): GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음. 
+1. [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b): GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음. 
 2. 
