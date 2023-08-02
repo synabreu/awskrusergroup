@@ -54,4 +54,5 @@
 1. [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b): GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음. 
 2. [ReLoRa: Pre-train a Large Language Model on Your GPU](https://towardsdatascience.com/relora-pre-train-a-large-language-model-on-your-gpu-d104756f9ddf): LoRA에서 파라미터를 그대로 유지하고 Low Rank를 추가해서 비용을 줄일 수 있는 최신 방법 제안
 3. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf): LLM이 프롬프트 상에서 매우 큰 컨텍스트가 주어졌을 때 정보가 중간 부분에 묻혀 관련 정보를 추출하는 데 어려움을 겪음. 따라서, RAG(Retrieval Augmented Generation) 형식의 검색 시스템으로 관련 정보를 대규모로 추출하도록 특별히 설계되어 비용이 크게 절감되었다는 내용. 이때 벡터 데이터베이스를 사용하면 유용. 
-4. 
+4. [DeepSpeed ZeRO++: A leap in speed for LLM and chat model training with 4X less communication](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/): DeepSpeed ​​ZeRO++: 4배 적은 커뮤니케이션으로 LLM 및 채팅 모델 교육 속도 향상
+5. 
