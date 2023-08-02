@@ -48,6 +48,11 @@
 
 ## Further Readings ##
 
+<P> * AWS 로그 </P>
+
+1. [Introducing the vector engine for Amazon OpenSearch Serverless, now in preview](https://aws.amazon.com/ko/blogs/big-data/introducing-the-vector-engine-for-amazon-opensearch-serverless-now-in-preview/): OpenSearch 를 이용한 벡터 데이터베이스 임베딩과 증강된 ML 검색
+
+
 <p> * 읽어 보시면 유용할 만한 LLM 관련 논문, 기사, 블로그 </p>
 
 
