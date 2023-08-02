@@ -45,3 +45,8 @@
 
 그리고 demo_code 폴더에 관련 예제 소스를 수록했고, 소스에 주석을 달아 놓았습니다. 
 혹시 작동시켜 보시다가 안되시면 언제든지 저에게 메일을 주시면 답변 드리도록 하겠습니다.
+
+## Further Readings ##
+
+1. [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b, "GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음"): GPU를 가지고 LLM을 파인튜닝할 때 QLoRa 를 사용하면 성능도 향상되고 비용도 줄일 수 있음. 
+2. 
